@@ -33,7 +33,7 @@ h1 {
 }
 
 body {
-  background-image: url("candy-bg-img.png");
+  background-image: url("candy_bg_img.png");
   max-width: 100vh;
   display: flex;
 }
